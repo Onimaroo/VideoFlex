@@ -1,6 +1,6 @@
 # VideoFlex
 
-Un site de streaming avec une intention similaire à Netflix fait avec un camarade de l'université qu'on a nommé `VideoFlex`. Codé en PhP à l'aide d'une base de données PostgreSQL.
+Un site de streaming avec une intention similaire à Netflix fait avec un camarade de l'université qu'on a nommé `VideoFlex`. Codé en PHP à l'aide d'une base de données PostgreSQL.
 
 ## Comment y accéder
 
